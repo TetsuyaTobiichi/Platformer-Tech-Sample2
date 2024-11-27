@@ -1,3 +1,5 @@
+
+//init all
 using Leopotam.Ecs;
 using UnityEngine;
 

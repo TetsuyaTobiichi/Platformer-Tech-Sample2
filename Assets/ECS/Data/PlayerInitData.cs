@@ -1,4 +1,4 @@
-
+//default settings
 
 using UnityEngine;
 [CreateAssetMenu]

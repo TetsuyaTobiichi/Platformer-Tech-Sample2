@@ -1,3 +1,4 @@
+//connecting with monobehaviour
 using Leopotam.Ecs;
 using UnityEngine;
 

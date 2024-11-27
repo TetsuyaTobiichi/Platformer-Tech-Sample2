@@ -1,3 +1,4 @@
+//struct for make move
 using UnityEngine;
 
 public struct Movable
